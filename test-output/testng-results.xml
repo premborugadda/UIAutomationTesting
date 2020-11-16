@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-15T22:02:27 EST" name="Suite" finished-at="2020-11-15T22:03:04 EST" duration-ms="37247">
+    <groups>
+    </groups>
+    <test started-at="2020-11-15T22:02:27 EST" name="Test" finished-at="2020-11-15T22:03:04 EST" duration-ms="37247">
+      <class name="testCases.DateFormat">
+        <test-method signature="DateFormatChange()[pri:0, instance:testCases.DateFormat@46fa7c39]" started-at="2020-11-15T22:03:04 EST" name="DateFormatChange" finished-at="2020-11-15T22:03:04 EST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DateFormatChange -->
+      </class> <!-- testCases.DateFormat -->
+      <class name="testCases.TestCases">
+        <test-method signature="EnterInvalidEmail()[pri:0, instance:testCases.TestCases@53aad5d5]" started-at="2020-11-15T22:02:27 EST" name="EnterInvalidEmail" finished-at="2020-11-15T22:02:36 EST" duration-ms="8654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterInvalidEmail -->
+        <test-method signature="verifyDetailsEntered()[pri:0, instance:testCases.TestCases@53aad5d5]" started-at="2020-11-15T22:02:36 EST" name="verifyDetailsEntered" finished-at="2020-11-15T22:02:46 EST" duration-ms="9700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDetailsEntered -->
+        <test-method signature="verifyPrivacyPolicyPage()[pri:0, instance:testCases.TestCases@53aad5d5]" started-at="2020-11-15T22:02:46 EST" name="verifyPrivacyPolicyPage" finished-at="2020-11-15T22:02:56 EST" duration-ms="10626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrivacyPolicyPage -->
+        <test-method signature="verifySignUpPageDisplay()[pri:0, instance:testCases.TestCases@53aad5d5]" started-at="2020-11-15T22:02:56 EST" name="verifySignUpPageDisplay" finished-at="2020-11-15T22:03:04 EST" duration-ms="8215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignUpPageDisplay -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
